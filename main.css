@@ -5,6 +5,8 @@ body {
   margin: 0;
 }
 
+p2 {font-size::9px;}
+
 p {
   color: white;
 }
