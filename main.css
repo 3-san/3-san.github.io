@@ -10,6 +10,9 @@ p2 {font-size::9px;}
 p {
   color: white;
 }
+
+li a:hover:not
+
 ul {
   list-style-type: none;
   margin: 0;
