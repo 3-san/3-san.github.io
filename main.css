@@ -2,6 +2,12 @@ body {
   margin: 0;
 }
 
+p {
+  color: white;
+body {
+  background-color: olive green;
+}
+}
 ul {
   list-style-type: none;
   margin: 0;
