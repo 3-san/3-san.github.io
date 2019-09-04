@@ -8,8 +8,9 @@ body {
   margin: 0;
 }
 
-html body {
-  background-image: url("dbz.png");
+body {
+  background: url("dbz.png");
+  background-size:500px 900px
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
