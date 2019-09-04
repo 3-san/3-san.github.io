@@ -1,6 +1,10 @@
+/*This is where the magic happens. Though the html is the bulk of the site, the overall aesthetic is all in here. Did it take a while? Yes it did. Did I have fun working on this? Mostly, but there were a few bumps on the track to complete this.*/
+
 body {
   margin: 0;
 }
+
+/*I decided to go with this size of a font. It wasn't to big and wasn't to small. Pretty much it was a "goldilocks" font for me*/
 
 p2 {font-size::9px;}
 
@@ -8,6 +12,7 @@ body {
   margin: 0;
 }
 
+/* I decided on this image simply due to the fact that it fit the criteria I was looking for regarding a background: Pleasing to look at and something that expresses me. I love the Dragon Ball Franchise and I personally found the background very appealing.*/
 body { 
   background: url(dbz.jpg) no-repeat center fixed; 
   background-size: cover;
@@ -19,12 +24,15 @@ body {
   text-align: center;
 }
 
+/* It took quite a while to decide on a color. I had black origonally, it I felt that it didn't fit and it also was a bit hard to see. I decided on white as I felt it was the best out of the different colors I tried.*/ 
 p {
   color: white;
 }
 
+
 li a:hover:not
 
+/*This is the css for the dropdown menu. The html files would reference this CSS and follow through with the function. Hover over the icon for the specific tab and it'll change color. Upon clicking it, you will go to that tab. Although it didn't turn out the way I expected it to, I enjoyed the final outcome of how it turned out. However, there was a lot of frustration in the creation of this menu, mainly caused due to me overthing and overlooking the smallest details over the course of many hours.*/
 ul {
   list-style-type: none;
   margin: 0;
