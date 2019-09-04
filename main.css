@@ -8,11 +8,8 @@ body {
   margin: 0;
 }
 
-html {
-  background: url(dbz.jpg) no-repeat center; 
-  background-size: cover;
-  height: 500px;
-  position: relative;
+html body {
+  background-image: url("dbz.jpg");
 }
 
 .title {
