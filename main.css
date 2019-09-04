@@ -9,7 +9,11 @@ body {
 }
 
 html body {
-  background-image: url("dbz.jpg");
+  background-image: url("dbz.png");
+  background-repeat: no-repeat;
+  background-position: right top;
+  margin-right: 200px;
+  background-attachment: fixed;
 }
 
 .title {
